@@ -1,0 +1,40 @@
+# Ignore node_modules folder
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore npm's debug log
+npm-debug.log*
+
+# Ignore yarn lockfile
+yarn.lock
+
+# Ignore pnpm's lockfile
+pnpm-lock.yaml
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Visual Studio Code configuration files
+.vscode/
+
+# Ignore editor specific files
+*.sublime-project
+*.sublime-workspace
+*.idea/
+*.vs/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*.bak
+*.cache
+*.DS_Store
+*.log
+*.out
+*.pid
+*.seed
+*.log
+*.vscode/
